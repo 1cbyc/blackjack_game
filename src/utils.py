@@ -1,5 +1,5 @@
-with open('src/utils.py', 'w') as f:
-    f.write("""
+# with open('src/utils.py', 'w') as f:
+#     f.write("""
 def calculate_score(hand):
     score = 0
     aces = 0

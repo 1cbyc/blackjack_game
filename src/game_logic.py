@@ -1,5 +1,5 @@
-with open('src/game_logic.py', 'w') as f:
-    f.write("""
+# with open('src/game_logic.py', 'w') as f:
+#     f.write("""
 import random
 from src.utils import calculate_score, display_hand
 
