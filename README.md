@@ -12,4 +12,4 @@ python main.py
 ```
 
 ## bY the way, this is how it looks when you run it:
-![](proof_2024-12-30_00-23-13.jpg)
+![Proof of Use](proof_2024-12-30_00-23-13.jpg)
